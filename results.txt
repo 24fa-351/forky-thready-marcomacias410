@@ -1,0 +1,75 @@
+Pattern 1:
+Process 0 (11309) beginning... sleeping for 2 seconds
+Process 1 (11310) beginning... sleeping for 5 seconds
+Process 2 (11311) beginning... sleeping for 6 seconds
+Process 4 (11313) beginning... sleeping for 6 seconds
+Process 3 (11312) beginning... sleeping for 8 seconds
+Process 0 (11309) exiting  
+Process 1 (11310) exiting  
+Process 2 (11311) exiting  
+Process 4 (11313) exiting  
+Process 3 (11312) exiting  
+
+Pattern 2:
+Process 1 (10048) beginning... sleeping for 6 seconds
+Process 10047 created Process 10048 
+Process 1 (10048) exiting 
+Process 2 (10089) beginning... sleeping for 6 seconds
+Process 10048 created Process 10089 
+Process 2 (10089) exiting 
+Process 3 (10114) beginning... sleeping for 7 seconds
+Process 10089 created Process 10114 
+Process 3 (10114) exiting 
+Process 4 (10139) beginning... sleeping for 5 seconds
+Process 10114 created Process 10139 
+Process 4 (10139) exiting 
+Process 5 (10164) beginning... sleeping for 5 seconds
+Process 10139 created Process 10164 
+Process 5 (10164) exiting 
+Process 1 (10048) beginning... sleeping for 6 seconds
+Process 10047 created Process 10048 
+Process 1 (10048) exiting 
+Process 2 (10089) beginning... sleeping for 6 seconds
+Process 10048 created Process 10089 
+Process 2 (10089) exiting 
+Process 3 (10114) beginning... sleeping for 7 seconds
+Process 10089 created Process 10114 
+Process 3 (10114) exiting 
+Process 4 (10139) beginning... sleeping for 5 seconds
+Process 10114 created Process 10139 
+Process 4 (10139) exiting 
+Process 5 (10164) beginning... sleeping for 5 seconds
+Process 10139 created Process 10164 
+Process 5 (10164) exiting 
+Process 1 (10048) beginning... sleeping for 6 seconds
+Process 10047 created Process 10048 
+Process 1 (10048) exiting 
+Process 2 (10089) beginning... sleeping for 6 seconds
+Process 10048 created Process 10089 
+Process 2 (10089) exiting 
+Process 3 (10114) beginning... sleeping for 7 seconds
+Process 10089 created Process 10114 
+Process 3 (10114) exiting 
+Process 4 (10139) beginning... sleeping for 5 seconds
+Process 10114 created Process 10139 
+Process 4 (10139) exiting 
+Process 1 (10048) beginning... sleeping for 6 seconds
+Process 10047 created Process 10048 
+Process 1 (10048) exiting 
+Process 2 (10089) beginning... sleeping for 6 seconds
+Process 10048 created Process 10089 
+Process 2 (10089) exiting 
+Process 3 (10114) beginning... sleeping for 7 seconds
+Process 10089 created Process 10114 
+Process 3 (10114) exiting 
+Process 1 (10048) beginning... sleeping for 6 seconds
+Process 10047 created Process 10048 
+Process 1 (10048) exiting 
+Process 2 (10089) beginning... sleeping for 6 seconds
+Process 10048 created Process 10089 
+Process 2 (10089) exiting 
+Process 1 (10048) beginning... sleeping for 6 seconds
+Process 10047 created Process 10048 
+Process 1 (10048) exiting 
+
+Pattern 3:
